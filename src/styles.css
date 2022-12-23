@@ -1,0 +1,47 @@
+.card {
+  display: block;
+  margin: 10% auto;
+}
+form {
+  display: block;
+  margin: 0 auto;
+}
+small {
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  color: #167bca;
+}
+h3 {
+  opacity: 80%;
+}
+
+span {
+  width: 100px;
+}
+.cloudy {
+  margin-top: 10px;
+  color: #167bca;
+  font-size: 100px;
+}
+p {
+  font-size: 30px;
+  padding: 0;
+}
+.cloud {
+  color: #167bca;
+  font-size: 100px;
+}
+.rain {
+  color: #167bca;
+  font-size: 40px;
+}
+.sun {
+  color: yellow;
+  font-size: 40px;
+}
+.col {
+  font-family: "Secular one";
+}
