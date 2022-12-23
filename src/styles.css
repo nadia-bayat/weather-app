@@ -1,6 +1,6 @@
 .card {
   display: block;
-  margin: 10% auto;
+  margin: 10% auto 0 auto;
 }
 form {
   display: block;
@@ -44,4 +44,8 @@ p {
 }
 .col {
   font-family: "Secular one";
+}
+.link {
+  text-align: center;
+  font-size: 15px;
 }
