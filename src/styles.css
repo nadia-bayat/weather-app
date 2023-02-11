@@ -49,6 +49,9 @@ p {
   text-align: center;
   font-size: 15px;
 }
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
 }
 .weather-forecast-date {
   font-size: 16px;
